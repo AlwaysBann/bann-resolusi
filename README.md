@@ -1,2 +1,2 @@
 # bann-resolusi
-Repo Untuk menyimpan rencana wpu kedepannya
+Repo Untuk menyimpan rencana ku kedepannya
